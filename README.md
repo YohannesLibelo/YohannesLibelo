@@ -11,8 +11,3 @@
 📈 **Current Projects**:
 - **AI-Enabled Full-Stack Application**: Developing a coaching app that uses AI to provide workout recommendations based on user data. The project utilizes Spring Boot for the backend and Vue.js for the frontend.
   
-Feel free to explore my repositories and projects. I’m always open to collaboration and learning from the community.
-
----
-
-This version should effectively convey your experience, skills, and aspirations to potential employers or collaborators.
